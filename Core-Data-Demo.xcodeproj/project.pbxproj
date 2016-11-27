@@ -99,7 +99,7 @@
 				TargetAttributes = {
 					4FA2E6881DEB0484007F5C4B = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 9H6KQRRLW5;
+						DevelopmentTeam = AMG5752JL7;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H6KQRRLW5;
+				DEVELOPMENT_TEAM = AMG5752JL7;
 				INFOPLIST_FILE = "Core-Data-Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "eu.curiousit.Core-Data-Demo";
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9H6KQRRLW5;
+				DEVELOPMENT_TEAM = AMG5752JL7;
 				INFOPLIST_FILE = "Core-Data-Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "eu.curiousit.Core-Data-Demo";
@@ -304,6 +304,7 @@
 				4FA2E6A01DEB0485007F5C4B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
